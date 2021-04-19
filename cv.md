@@ -24,9 +24,11 @@ Unfortunately almost all my work is in private repository, so I will attach here
 [Circuit app](https://play.google.com/store/apps/details?id=com.unify.circuit)
 
 ## Education
-*GSU named by F. Skoriny*</br>
+* *GSU named by F. Skoriny*</br>
 FACULTY OF MATHEMATICS AND TECHNOLOGIES OF PROGRAMMING</br>
 Computational Mathematics and Programming</br>
+
+* passed *Android EPAM training* course
 
 ## English
 **B1(Intermediate)**, but over the past year, I have had almost no experience of speaking English.
