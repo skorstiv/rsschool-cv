@@ -27,3 +27,6 @@ Unfortunately almost all my work is in private repository, so I will attach here
 *GSU named by F. Skoriny*</br>
 FACULTY OF MATHEMATICS AND TECHNOLOGIES OF PROGRAMMING</br>
 Computational Mathematics and Programming</br>
+
+## English
+**B1(Intermediate)**, but over the past year, I have had almost no experience of speaking English.
